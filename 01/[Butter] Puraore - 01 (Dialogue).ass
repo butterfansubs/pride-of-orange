@@ -57,7 +57,7 @@ Dialogue: 0,0:03:41.70,0:03:42.82,Default,,0,0,0,,Here I am!
 Dialogue: 0,0:03:42.82,0:03:44.94,Default,,0,0,0,,You're late, Sis!
 Dialogue: 0,0:03:44.94,0:03:46.21,Default,,0,0,0,,Sorry!
 Dialogue: 0,0:03:46.21,0:03:48.78,Default,,0,0,0,,The teacher pulled Mana aside.
-Dialogue: 0,0:03:48.78,0:03:50.46,Default,,0,0,0,,--Really?
+Dialogue: 0,0:03:48.78,0:03:49.98,Default,,0,0,0,,--Really?
 Dialogue: 0,0:03:49.98,0:03:50.46,Default,,0,0,0,,--Mm-hmm!
 Dialogue: 0,0:03:50.46,0:03:53.42,Default,,0,0,0,,What'd you do this time, Sis?
 Dialogue: 0,0:03:53.42,0:03:56.65,Default,,0,0,0,,Nothing! It was committee stuff!
@@ -66,9 +66,9 @@ Dialogue: 0,0:04:03.22,0:04:05.82,Default,,0,0,0,,Don't talk with your mouth ful
 Dialogue: 0,0:04:05.82,0:04:07.22,Default,,0,0,0,,Want tea?
 Dialogue: 0,0:04:07.22,0:04:08.88,Default,,0,0,0,,Sure do!
 Dialogue: 0,0:04:08.88,0:04:10.14,Default,,0,0,0,,--Here.
-Dialogue: 0,0:04:09.38,0:04:10.91,Default,,0,0,0,,--Thanks!
-Dialogue: 0,0:04:10.14,0:04:10.91,Alternate,,0,0,0,,--Gather up!
-Dialogue: 0,0:04:10.91,0:04:12.39,Alternate,,0,0,0,,--Right!
+Dialogue: 0,0:04:09.38,0:04:10.14,Default,,0,0,0,,--Thanks!
+Dialogue: 0,0:04:10.14,0:04:10.91,Alternate,,0,0,0,,{\an8}--Gather up!
+Dialogue: 0,0:04:10.91,0:04:11.88,Alternate,,0,0,0,,{\an8}--Right!
 Dialogue: 0,0:04:16.20,0:04:21.65,Default,,0,0,0,,Mmm! Nothing says springtime\Nof youth like sweat and sports!
 Dialogue: 0,0:04:21.65,0:04:24.51,Default,,0,0,0,,Our embroidery club counts, too!
 Dialogue: 0,0:04:24.51,0:04:28.12,Default,,0,0,0,,Of course! It's existed\Nsince Grandma's time!
@@ -107,7 +107,7 @@ Dialogue: 0,0:05:54.16,0:05:55.84,Default,,0,0,0,,What's wrong with that?!
 Dialogue: 0,0:05:57.33,0:06:00.72,Default,,0,0,0,,That's all for today! Thanks for coming!
 Dialogue: 0,0:06:00.72,0:06:02.91,Default,,0,0,0,,Thanks, everyone!
 Dialogue: 0,0:06:03.97,0:06:05.81,Default,,0,0,0,,Wanna come over?
-Dialogue: 0,0:06:05.81,0:06:07.18,Default,,0,0,0,,--Yeah!
+Dialogue: 0,0:06:05.81,0:06:06.34,Default,,0,0,0,,--Yeah!
 Dialogue: 0,0:06:06.34,0:06:07.18,Default,,0,0,0,,--Of course!
 Dialogue: 0,0:06:08.21,0:06:10.01,Default,,0,0,0,,We're home!
 Dialogue: 0,0:06:10.01,0:06:12.72,Default,,0,0,0,,Pardon us!
@@ -128,11 +128,12 @@ Dialogue: 0,0:06:53.47,0:06:58.32,Default,,0,0,0,,Mom got so excited by the call
 Dialogue: 0,0:06:58.32,0:07:00.27,Default,,0,0,0,,Huh? For real?
 Dialogue: 0,0:07:00.70,0:07:03.19,Default,,0,0,0,,But they're mailing the details.
 Dialogue: 0,0:07:03.19,0:07:08.04,Default,,0,0,0,,Hey, do you think it's a TV\Nspecial about you guys?!
-Dialogue: 0,0:07:08.04,0:07:08.74,Default,,0,0,0,,--Eh?!\N--Huh?!
+Dialogue: 0,0:07:08.04,0:07:08.74,Default,,0,0,0,,--Eh?!
+Dialogue: 0,0:07:08.04,0:07:08.74,Alternate,,0,0,0,,--Huh?!
 Dialogue: 0,0:07:09.22,0:07:12.67,Default,,0,0,0,,"Cute Next-Gen Hostesses\Nof an Age-Old {\i1}Ryokan{\i0}."
 Dialogue: 0,0:07:12.67,0:07:14.99,Default,,0,0,0,,Or, "Newbie Hostesses at Work."
 Dialogue: 0,0:07:14.99,0:07:17.50,Default,,0,0,0,,Those sorta shows are trending!
-Dialogue: 0,0:07:17.50,0:07:18.96,Default,,0,0,0,,--They sure are!
+Dialogue: 0,0:07:17.50,0:07:18.40,Default,,0,0,0,,--They sure are!
 Dialogue: 0,0:07:18.40,0:07:18.96,Default,,0,0,0,,--Right?
 Dialogue: 0,0:07:18.96,0:07:20.98,Default,,0,0,0,,Yeah? You think?
 Dialogue: 0,0:07:20.98,0:07:23.17,Default,,0,0,0,,Make sure we're here for it!
@@ -180,7 +181,7 @@ Dialogue: 0,0:09:18.52,0:09:19.67,Default,,0,0,0,,Yeah.
 Dialogue: 0,0:09:19.67,0:09:20.29,Default,,0,0,0,,Well...
 Dialogue: 0,0:09:20.29,0:09:22.54,Default,,0,0,0,,Doesn't it sound cool?!
 Dialogue: 0,0:09:22.54,0:09:26.17,Default,,0,0,0,,It might be worth trying out, I guess.
-Dialogue: 0,0:09:26.17,0:09:31.01,Default,,0,0,0,,Ice hockey, huh? That sounds pretty scary. 
+Dialogue: 0,0:09:26.17,0:09:31.01,Default,,0,0,0,,Ice hockey, huh? That sounds pretty scary.
 Dialogue: 0,0:09:31.01,0:09:32.76,Default,,0,0,0,,Won't we get hurt?
 Dialogue: 0,0:09:32.76,0:09:37.93,Default,,0,0,0,,It's fine! It'll be an experience!\NC'mon, let's all go!
 Dialogue: 0,0:09:37.93,0:09:41.14,Default,,0,0,0,,Grandma always says,\N"Try new experiences!"
@@ -205,186 +206,222 @@ Dialogue: 0,0:10:46.00,0:10:48.68,Default,,0,0,0,,Aww! Anything but that!
 Dialogue: 0,0:10:48.68,0:10:50.96,Default,,0,0,0,,Don't underestimate the Poor!
 Dialogue: 0,0:10:50.96,0:10:53.99,Default,,0,0,0,,Ugh! Let's play again!
 Dialogue: 0,0:10:53.99,0:10:55.92,Default,,0,0,0,,All right! One more time!
-Comment: 0,0:11:03.28,0:11:07.03,Default,,0,0,0,,I haven't been here\Nsince our gym field trip!
-Dialogue: 0,0:11:07.03,0:11:10.37,Default,,0,0,0,,When does ice hockey season start?
-Dialogue: 0,0:11:10.37,0:11:11.78,Default,,0,0,0,,Sorry!
-Dialogue: 0,0:11:11.78,0:11:13.54,Default,,0,0,0,,We're a little late!
-Dialogue: 0,0:11:13.54,0:11:15.91,Default,,0,0,0,,'Cuz Ayaka overslept!
-Dialogue: 0,0:11:15.91,0:11:20.17,Default,,0,0,0,,Nuh-uh! You wouldn't get up\Nso I fell asleep!
-Dialogue: 0,0:11:20.17,0:11:23.55,Default,,0,0,0,,Enough excuses! C'mon, let's go!
-Dialogue: 0,0:11:23.55,0:11:25.21,Default,,0,0,0,,It's this way.
-Dialogue: 0,0:11:25.21,0:11:26.42,Default,,0,0,0,,Eh?!
-Dialogue: 0,0:11:28.97,0:11:32.76,Default,,0,0,0,,Listen up! Let's start\Nthis season with spirit!
-Dialogue: 0,0:11:32.76,0:11:37.52,Default,,0,0,0,,Be kind! Make 'em think:\N"I wanna come back next week!"
-Dialogue: 0,0:11:37.52,0:11:38.77,Default,,0,0,0,,Right!
-Dialogue: 0,0:11:38.77,0:11:46.53,Default,,0,0,0,,It starts with: "Ice hockey is kinda fun!"\NAnd then: "Maybe I'll go next week!"
-Dialogue: 0,0:11:46.53,0:11:50.24,Default,,0,0,0,,Soon enough: "Maybe I'll join the\NDream Monkeys!" Can't you see?!
-Dialogue: 0,0:11:50.24,0:11:51.99,Default,,0,0,0,,Soon enough: "Maybe I'll join the\NDream Monkeys!" Can't you see?!
-Dialogue: 0,0:11:51.99,0:11:52.91,Default,,0,0,0,,Right!
-Dialogue: 0,0:11:52.91,0:11:56.33,Default,,0,0,0,,Understand?! You need to be super nice!
-Dialogue: 0,0:11:56.33,0:11:57.79,Default,,0,0,0,,--This is what you've been training for!
-Dialogue: 0,0:11:57.79,0:11:59.96,Default,,0,0,0,,--Um, Yoko?\N--This is what you've been training for!
-Dialogue: 0,0:11:59.96,0:12:01.17,Default,,0,0,0,,What, Sato?!
-Dialogue: 0,0:12:01.17,0:12:05.55,Default,,0,0,0,,You're making a face\Nthat'll scare 'em away.
-Dialogue: 0,0:12:05.55,0:12:07.09,Default,,0,0,0,,For real?
-Dialogue: 0,0:12:09.09,0:12:13.30,Default,,0,0,0,,Ew! I've got wrinkles here?! Since when?!
-Dialogue: 0,0:12:13.30,0:12:17.68,Default,,0,0,0,,That's your issue? Huh?\NYoko, they're coming!
-Dialogue: 0,0:12:17.68,0:12:20.02,Default,,0,0,0,,What?! Sato, put it on!
-Dialogue: 0,0:12:20.02,0:12:22.40,Default,,0,0,0,,R-Right!
-Dialogue: 0,0:12:22.40,0:12:24.02,Default,,0,0,0,,Refreshing!
-Dialogue: 0,0:12:24.02,0:12:25.82,Default,,0,0,0,,Sure feels good!
-Dialogue: 0,0:12:25.82,0:12:28.69,Default,,0,0,0,,Are you here for the trial class?!
-Dialogue: 0,0:12:28.69,0:12:29.82,Default,,0,0,0,,Y-Yeah!
-Dialogue: 0,0:12:29.82,0:12:35.62,Default,,0,0,0,,Welcome to Kirifuri Arena!\NMy, you're all so cute!
-Dialogue: 0,0:12:35.62,0:12:40.79,Default,,0,0,0,,Let's see. Kinugawa Junior High\N3rd year, Manaka Mizusawa,
-Dialogue: 0,0:12:40.79,0:12:46.88,Default,,0,0,0,,Kaoruko Yanagida, Mami Ono,\Nand 2nd year, Ayaka Mizusawa, right?
-Dialogue: 0,0:12:46.88,0:12:47.67,Default,,0,0,0,,Yup!
-Dialogue: 0,0:12:47.67,0:12:53.22,Default,,0,0,0,,Thanks for coming to the ice hockey\Ntrial class! Let's head on in!
-Dialogue: 0,0:12:53.22,0:12:54.64,Default,,0,0,0,,Okay!
-Dialogue: 0,0:12:54.64,0:12:56.97,Default,,0,0,0,,--Brr!\N--It's chilly!
-Dialogue: 0,0:12:56.97,0:12:58.43,Default,,0,0,0,,I'm excited!
-Dialogue: 0,0:12:58.43,0:13:00.52,Default,,0,0,0,,Me, too!
-Dialogue: 0,0:13:00.52,0:13:02.81,Default,,0,0,0,,Change into your gym clothes.
-Dialogue: 0,0:13:02.81,0:13:04.40,Default,,0,0,0,,Roger that!
-Dialogue: 0,0:13:06.19,0:13:07.36,Default,,0,0,0,,Huh?
-Dialogue: 0,0:13:09.32,0:13:13.95,Default,,0,0,0,,Um, are you guys participating\Nin the trial class, too?
-Dialogue: 0,0:13:13.95,0:13:16.07,Default,,0,0,0,,Yeah, that's right.
-Dialogue: 0,0:13:16.07,0:13:18.37,Default,,0,0,0,,So are we!
-Dialogue: 0,0:13:18.37,0:13:22.33,Default,,0,0,0,,I'm Manaka Mizusawa,\Na 3rd year at Kinugawa.
-Dialogue: 0,0:13:22.33,0:13:28.59,Default,,0,0,0,,I'm Riko Saginuma from Kirifuri.\NAnd here's my extra, Naomi Takagi.
-Dialogue: 0,0:13:28.59,0:13:30.63,Default,,0,0,0,,We're 3rd years, too.
-Dialogue: 0,0:13:30.63,0:13:33.01,Default,,0,0,0,,Don't call me an extra.
-Dialogue: 0,0:13:33.01,0:13:35.01,Default,,0,0,0,,Nice to meet you!
-Dialogue: 0,0:13:35.01,0:13:36.72,Default,,0,0,0,,You, too!
-Dialogue: 0,0:13:38.35,0:13:43.98,Default,,0,0,0,,Nice! It's all girls this year!\NAnd what a harvest at that!
-Dialogue: 0,0:13:43.98,0:13:45.81,Default,,0,0,0,,In junior high, though.
-Dialogue: 0,0:13:45.81,0:13:50.28,Default,,0,0,0,,That's fine! It's an early harvest!
-Dialogue: 0,0:13:50.28,0:13:53.86,Default,,0,0,0,,At last, my ambition will come to light!
-Dialogue: 0,0:13:53.86,0:13:59.20,Default,,0,0,0,,You mean, that one idea of mixing\Nice hockey and entertainment?
-Dialogue: 0,0:13:59.20,0:14:04.62,Default,,0,0,0,,Yes! First, I'll train the girls to play\Nlike proper Dream Monkeys!
-Dialogue: 0,0:14:04.62,0:14:08.67,Default,,0,0,0,,But after each win, they'll do\Na victory dance on the ice!
-Dialogue: 0,0:14:08.67,0:14:12.84,Default,,0,0,0,,Such a clever performance\Nwill delight the audience!
-Dialogue: 0,0:14:12.84,0:14:17.84,Default,,0,0,0,,It'll bring in people who never\Nhad interest in ice hockey!
-Dialogue: 0,0:14:17.84,0:14:24.27,Default,,0,0,0,,Then I'll appear in my old uniform\Nand sing a song while I'm at it!
-Dialogue: 0,0:14:24.27,0:14:28.36,Default,,0,0,0,,We'll attract the biggest\Ncrowds you've ever seen!
-Dialogue: 0,0:14:28.36,0:14:30.23,Default,,0,0,0,,That's my ambition!
-Dialogue: 0,0:14:30.23,0:14:35.61,Default,,0,0,0,,More like your delusion.\NYou're saying some pretty crazy things.
-Dialogue: 0,0:14:35.61,0:14:36.86,Default,,0,0,0,,Got a problem?!
-Dialogue: 0,0:14:36.86,0:14:38.12,Default,,0,0,0,,No!
-Dialogue: 0,0:14:38.12,0:14:42.16,Default,,0,0,0,,Anyway, don't you dare\Nlet these girls slip away!
-Dialogue: 0,0:14:42.16,0:14:44.16,Default,,0,0,0,,Right!
-Dialogue: 0,0:14:44.16,0:14:49.17,Default,,0,0,0,,Now then, we'll start with warm-ups\Nto help prevent injuries.
-Dialogue: 0,0:14:49.17,0:14:52.05,Default,,0,0,0,,We'll stretch along to a rhythm.
-Dialogue: 0,0:14:52.05,0:14:56.88,Default,,0,0,0,,Ice hockey uses a lot of muscles.\NWe'll do upper body first.
-Dialogue: 0,0:14:56.88,0:15:00.68,Default,,0,0,0,,--One, two, three, four,\Nfive, six, seven, eight.
-Dialogue: 0,0:15:00.68,0:15:02.43,Default,,0,0,0,,--Interesting stretch!\N--One, two, three, four,\Nfive, six, seven, eight.
-Dialogue: 0,0:15:02.43,0:15:04.18,Default,,0,0,0,,--It sure is!\N--One, two, three, four,\Nfive, six, seven, eight.
-Dialogue: 0,0:15:04.18,0:15:11.36,Default,,0,0,0,,Two, two, three, four,\Nfive, six, seven, eight.
-Dialogue: 0,0:15:11.36,0:15:15.07,Default,,0,0,0,,Here's one more useful for games. Ready?
-Dialogue: 0,0:15:15.07,0:15:19.87,Default,,0,0,0,,One, two, three, four,\Nfive, six, seven, eight.
-Dialogue: 0,0:15:19.87,0:15:22.62,Default,,0,0,0,,--This clearly isn't a stretch.\N--Two, two, three, four,\Nfive, six, seven, eight.
-Dialogue: 0,0:15:22.62,0:15:25.04,Default,,0,0,0,,--It's more like a step.\N--Two, two, three, four,\Nfive, six, seven, eight.
-Dialogue: 0,0:15:25.04,0:15:30.92,Default,,0,0,0,,No, this isn't a step! It's a dance\Nused to evade defenders!
-Dialogue: 0,0:15:30.92,0:15:34.38,Default,,0,0,0,,--She said "dance" clear as day.\N--Three, four, five, six, seven, eight.
-Dialogue: 0,0:15:34.38,0:15:35.76,Default,,0,0,0,,--Yeah.\N--Two, three, four, five,\Nsix, seven, eight.
-Dialogue: 0,0:15:35.76,0:15:38.13,Default,,0,0,0,,--This is fun!\N--Two, three, four, five,\Nsix, seven, eight.
-Dialogue: 0,0:15:38.13,0:15:42.47,Default,,0,0,0,,Everyone's keeping up, right?\NOn to the next dance routine!
-Dialogue: 0,0:15:42.47,0:15:44.64,Default,,0,0,0,,Dance routine?
-Dialogue: 0,0:15:44.64,0:15:51.40,Default,,0,0,0,,You're doing great! Now that you've\Nwarmed up, let's get you on the rink.
-Dialogue: 0,0:15:52.52,0:15:56.19,Default,,0,0,0,,You can change into\Nyour uniforms this way.
-Dialogue: 0,0:15:56.19,0:15:57.40,Default,,0,0,0,,Okay!
-Dialogue: 0,0:15:57.40,0:15:58.57,Default,,0,0,0,,At last!
-Dialogue: 0,0:15:58.57,0:16:00.11,Default,,0,0,0,,I can't wait!
-Dialogue: 0,0:16:00.11,0:16:02.95,Default,,0,0,0,,--Yeah.\N--We get to wear uniforms!
-Dialogue: 0,0:16:02.95,0:16:06.20,Default,,0,0,0,,These girls... This could work!
-Dialogue: 0,0:16:06.20,0:16:11.21,Default,,0,0,0,,I wonder what that phony\Nstretch dance thing was about.
-Dialogue: 0,0:16:11.21,0:16:14.46,Default,,0,0,0,,If it went any longer, I would've left.
-Dialogue: 0,0:16:14.46,0:16:17.59,Default,,0,0,0,,Hey now. The fun's about to start.
-Dialogue: 0,0:16:20.09,0:16:23.93,Default,,0,0,0,,Whoa! It looks like a robot!
-Dialogue: 0,0:16:23.93,0:16:26.77,Default,,0,0,0,,Wow. It's lighter than I thought.
-Dialogue: 0,0:16:26.77,0:16:29.02,Default,,0,0,0,,We can move easy in these.
-Dialogue: 0,0:16:29.02,0:16:29.89,Default,,0,0,0,,Yeah!
-Dialogue: 0,0:16:29.89,0:16:34.82,Default,,0,0,0,,It seems like so much. If someone\Nruns into you, won't it hurt?
-Dialogue: 0,0:16:34.82,0:16:41.66,Default,,0,0,0,,It's okay. In girls' hockey, body checking\Nis an illegal hit. It shouldn't happen.
-Dialogue: 0,0:16:41.66,0:16:43.16,Default,,0,0,0,,I see!
-Dialogue: 0,0:16:43.16,0:16:44.45,Default,,0,0,0,,I feel stoked!
-Dialogue: 0,0:16:44.45,0:16:46.45,Default,,0,0,0,,I feel like a pilot.
-Dialogue: 0,0:16:47.74,0:16:53.17,Default,,0,0,0,,All right, guys! The trial class\Nstarts now! Let's rock and roll!
-Dialogue: 0,0:16:53.17,0:16:55.59,Default,,0,0,0,,"Rock and roll"?
-Dialogue: 0,0:17:00.92,0:17:04.47,Default,,0,0,0,,Is it safe to say everyone can skate?
-Dialogue: 0,0:17:04.47,0:17:05.93,Default,,0,0,0,,Yeah!
-Dialogue: 0,0:17:05.93,0:17:12.10,Default,,0,0,0,,Okay! That's the locals for you.\NTry to keep up with me!
-Dialogue: 0,0:17:22.32,0:17:25.41,Default,,0,0,0,,It's weird skating in gear.
-Dialogue: 0,0:17:25.41,0:17:27.12,Default,,0,0,0,,You okay, Ayaka?
-Dialogue: 0,0:17:27.12,0:17:28.45,Default,,0,0,0,,Yeah!
-Dialogue: 0,0:17:28.45,0:17:31.04,Default,,0,0,0,,Next up is edge control!
-Dialogue: 0,0:17:35.13,0:17:37.92,Default,,0,0,0,,Control it! Go slow if needed!
-Dialogue: 0,0:17:40.38,0:17:46.72,Default,,0,0,0,,Now then, you've warmed up to the rink,\Nso let's talk about the basics.
-Dialogue: 0,0:17:46.72,0:17:52.18,Default,,0,0,0,,Games last for 60 minutes,\Nbroken into three, 20-minute periods.
-Dialogue: 0,0:17:52.18,0:17:57.27,Default,,0,0,0,,Two teams compete to score\Nthe most goals in that time.
-Dialogue: 0,0:17:57.27,0:18:01.36,Default,,0,0,0,,There're two pieces of\Nequipment you need to play.
-Dialogue: 0,0:18:01.36,0:18:05.99,Default,,0,0,0,,The first is a puck. You score\Nby hitting it in the goal.
-Dialogue: 0,0:18:05.99,0:18:09.33,Default,,0,0,0,,It's about as big as a {\i1}jingoro senbei{\i0}...
-Dialogue: 0,0:18:09.33,0:18:12.54,Default,,0,0,0,,It's made of black rubber\Nand is very hard.
-Dialogue: 0,0:18:12.54,0:18:15.87,Default,,0,0,0,,You'll be sorry if it\Nhits you, so be careful.
-Dialogue: 0,0:18:15.87,0:18:18.84,Default,,0,0,0,,Ugh. I don't wanna get hurt.
-Dialogue: 0,0:18:18.84,0:18:22.42,Default,,0,0,0,,Yoko, what are you scaring 'em for?
-Dialogue: 0,0:18:22.42,0:18:24.63,Default,,0,0,0,,And this is a hockey stick.
-Dialogue: 0,0:18:24.63,0:18:27.09,Default,,0,0,0,,It's like a bath-stirring stick.
-Dialogue: 0,0:18:27.09,0:18:32.47,Default,,0,0,0,,You use the stick to control\Nthe puck by moving it like this.
-Dialogue: 0,0:18:41.07,0:18:44.07,Default,,0,0,0,,Now, you guys try it out!
-Dialogue: 0,0:18:45.78,0:18:47.11,Default,,0,0,0,,This is hard!
-Dialogue: 0,0:18:47.11,0:18:49.32,Default,,0,0,0,,I can't do it!
-Dialogue: 0,0:18:49.32,0:18:52.87,Default,,0,0,0,,It's okay. Nobody's good at first.
-Dialogue: 0,0:18:52.87,0:18:57.21,Default,,0,0,0,,Everyone get in a circle\Nand practice passing!
-Dialogue: 0,0:19:00.54,0:19:02.75,Default,,0,0,0,,Whoops! Sorry!
-Dialogue: 0,0:19:02.75,0:19:04.26,Default,,0,0,0,,Mizusawa!
-Dialogue: 0,0:19:06.09,0:19:08.68,Default,,0,0,0,,I got it! Here it comes, Mami!
-Dialogue: 0,0:19:08.68,0:19:10.43,Default,,0,0,0,,Okay!
-Dialogue: 0,0:19:10.43,0:19:12.31,Default,,0,0,0,,One, two...!
-Dialogue: 0,0:19:21.73,0:19:23.40,Default,,0,0,0,,Nice stop, Mami!
-Dialogue: 0,0:19:23.40,0:19:26.03,Default,,0,0,0,,Huh? Uh, yeah!
-Dialogue: 0,0:19:28.99,0:19:31.62,Default,,0,0,0,,You guys did great today!
-Dialogue: 0,0:19:31.62,0:19:33.20,Default,,0,0,0,,Thank you!
-Dialogue: 0,0:19:33.20,0:19:35.70,Default,,0,0,0,,What do you think of hockey?
-Dialogue: 0,0:19:35.70,0:19:42.92,Default,,0,0,0,,I was rusty since I haven't skated\Nin a while, but it came back to me!
-Dialogue: 0,0:19:42.92,0:19:46.97,Default,,0,0,0,,I'm new to using a stick,\Nbut it was kinda fun!
-Dialogue: 0,0:19:46.97,0:19:48.63,Default,,0,0,0,,Mm-hmm!
-Dialogue: 0,0:19:48.63,0:19:50.01,Default,,0,0,0,,I see!
-Dialogue: 0,0:19:50.01,0:19:52.51,Default,,0,0,0,,I'm sad we couldn't play more.
-Dialogue: 0,0:19:52.51,0:19:53.89,Default,,0,0,0,,What she said.
-Dialogue: 0,0:19:53.89,0:19:56.93,Default,,0,0,0,,Can I count on you to show up next week?!
-Dialogue: 0,0:19:56.93,0:19:59.23,Default,,0,0,0,,Okay!
-Dialogue: 0,0:19:59.23,0:20:02.27,Default,,0,0,0,,I was hoping for "okey-dokey."
-Dialogue: 0,0:20:02.27,0:20:05.53,Default,,0,0,0,,You're so old-fashioned, Yoko.
-Dialogue: 0,0:20:05.53,0:20:09.91,Default,,0,0,0,,I'm glad you all had fun!\NBe careful heading home!
-Dialogue: 0,0:20:09.91,0:20:11.78,Default,,0,0,0,,Okay!
-Dialogue: 0,0:20:11.78,0:20:16.33,Default,,0,0,0,,Whew! That was so much fun!\NThe hours just flew by!
-Dialogue: 0,0:20:16.33,0:20:19.71,Default,,0,0,0,,I know! It was over before I knew it!
-Dialogue: 0,0:20:19.71,0:20:22.13,Default,,0,0,0,,What a fun experience!
-Dialogue: 0,0:20:22.13,0:20:23.75,Default,,0,0,0,,I had a blast!
-Dialogue: 0,0:20:23.75,0:20:25.80,Default,,0,0,0,,Think you'll come back?
-Dialogue: 0,0:20:25.80,0:20:27.13,Default,,0,0,0,,Maybe!
-Dialogue: 0,0:20:27.13,0:20:28.30,Default,,0,0,0,,Um...!
-Dialogue: 0,0:20:28.30,0:20:29.63,Default,,0,0,0,,Hmm?
-Dialogue: 0,0:20:32.80,0:20:34.51,Default,,0,0,0,,Well...
-Dialogue: 0,0:20:35.56,0:20:42.98,Default,,0,0,0,,Ice hockey was fun! Passing the puck\Naround... Everyone chasing after it...
-Dialogue: 0,0:20:42.98,0:20:43.86,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:20:43.86,0:20:52.49,Default,,0,0,0,,I love embroidery. Stitch by stitch,\Nwatching a project come together...
-Dialogue: 0,0:20:52.49,0:20:56.37,Default,,0,0,0,,There's such a sense of accomplishment!
-Dialogue: 0,0:20:56.37,0:20:57.49,Default,,0,0,0,,Mami?
-Dialogue: 0,0:20:57.49,0:21:02.54,Default,,0,0,0,,But today, connecting the puck\Naround was really neat!
-Dialogue: 0,0:21:02.54,0:21:07.50,Default,,0,0,0,,For us to work together like that...\NIt was so much fun!
-Dialogue: 0,0:21:07.50,0:21:10.59,Default,,0,0,0,,So... So...!
-Dialogue: 0,0:21:14.39,0:21:17.51,Default,,0,0,0,,Let's play ice hockey next week!
-Dialogue: 0,0:21:17.51,0:21:18.60,Default,,0,0,0,,Mami...
-Dialogue: 0,0:21:18.60,0:21:21.73,Default,,0,0,0,,I'm surprised you're the one saying it.
-Dialogue: 0,0:21:21.73,0:21:23.27,Default,,0,0,0,,Agreed.
-Dialogue: 0,0:21:23.27,0:21:26.40,Default,,0,0,0,,Yeah, let's! Let's do it!
-Dialogue: 0,0:21:27.36,0:21:30.74,Default,,0,0,0,,Let's do it again next week, too!
-Dialogue: 0,0:21:30.74,0:21:33.66,Default,,0,0,0,,Okey-dokey!
-Dialogue: 0,0:21:33.66,0:21:35.28,Default,,0,0,0,,Right?
-Dialogue: 0,0:21:36.66,0:21:38.70,Default,,0,0,0,,Yup!
-Dialogue: 0,0:21:38.70,0:21:40.33,Default,,0,0,0,,Old-fashioned!
-Dialogue: 0,0:21:40.33,0:21:49.42,Default,,0,0,0,,In that moment, I--no, we... discovered\Nour sparkling springtime of youth!
-Dialogue: 0,0:23:35.86,0:23:38.49,Default,,0,0,0,,Connect the puck, even in a game!
+Dialogue: 0,0:11:03.35,0:11:07.17,Default,,0,0,0,,I haven't been here\Nsince our gym field trip!
+Dialogue: 0,0:11:07.17,0:11:10.10,Default,,0,0,0,,When does ice hockey season start?
+Dialogue: 0,0:11:10.10,0:11:11.96,Default,,0,0,0,,Sorry!
+Dialogue: 0,0:11:11.96,0:11:13.77,Default,,0,0,0,,We're a little late!
+Dialogue: 0,0:11:13.77,0:11:16.06,Default,,0,0,0,,'Cuz Ayaka overslept!
+Dialogue: 0,0:11:16.06,0:11:20.44,Default,,0,0,0,,Nuh-uh! You wouldn't get up\Nso I fell asleep!
+Dialogue: 0,0:11:20.44,0:11:23.73,Default,,0,0,0,,Enough excuses! C'mon, let's go!
+Dialogue: 0,0:11:23.73,0:11:25.99,Default,,0,0,0,,It's this way.
+Dialogue: 0,0:11:25.34,0:11:25.99,Default,,0,0,0,,Eh?!
+Dialogue: 0,0:11:29.09,0:11:32.42,Default,,0,0,0,,Listen up! Let's start\Nthis season with spirit!
+Dialogue: 0,0:11:32.95,0:11:37.55,Default,,0,0,0,,Be kind! Make 'em think:\N"I wanna come back next week!"
+Dialogue: 0,0:11:37.55,0:11:38.38,Default,,0,0,0,,Right!
+Dialogue: 0,0:11:38.93,0:11:42.13,Default,,0,0,0,,It starts with: "Ice hockey is kinda fun!"
+Dialogue: 0,0:11:42.13,0:11:46.73,Default,,0,0,0,,And then: "Maybe I'll go next week!"
+Dialogue: 0,0:11:46.73,0:11:50.70,Default,,0,0,0,,Soon enough: "Maybe I'll join the\NDream Monkeys!"
+Dialogue: 0,0:11:50.70,0:11:52.14,Default,,0,0,0,,Can't you see?!
+Dialogue: 0,0:11:52.14,0:11:52.81,Default,,0,0,0,,Right!
+Dialogue: 0,0:11:52.81,0:11:56.33,Alternate,,0,0,0,,{\an8}Understand?! You need to be super nice!
+Dialogue: 0,0:11:56.33,0:11:59.78,Alternate,,0,0,0,,{\an8}--This is what you've been training for!
+Dialogue: 0,0:11:57.79,0:11:59.78,Default,,0,0,0,,--Um, Yoko?
+Dialogue: 0,0:11:59.78,0:12:01.30,Default,,0,0,0,,What, Sato?!
+Dialogue: 0,0:12:01.30,0:12:05.24,Default,,0,0,0,,You're making a face\Nthat'll scare 'em away.
+Dialogue: 0,0:12:05.24,0:12:06.82,Default,,0,0,0,,For real?
+Dialogue: 0,0:12:09.22,0:12:13.12,Default,,0,0,0,,Ew! I've got wrinkles here?! Since when?!
+Dialogue: 0,0:12:13.12,0:12:16.60,Default,,0,0,0,,That's your issue? Huh?
+Dialogue: 0,0:12:16.60,0:12:17.84,Default,,0,0,0,,Yoko, they're coming!
+Dialogue: 0,0:12:17.84,0:12:20.43,Default,,0,0,0,,What?! Sato, put it on!
+Dialogue: 0,0:12:20.43,0:12:21.09,Default,,0,0,0,,R-Right!
+Dialogue: 0,0:12:22.52,0:12:24.19,Default,,0,0,0,,Refreshing!
+Dialogue: 0,0:12:24.19,0:12:25.59,Default,,0,0,0,,Sure feels good!
+Dialogue: 0,0:12:25.59,0:12:28.72,Default,,0,0,0,,Are you here for the trial class?!
+Dialogue: 0,0:12:28.72,0:12:29.98,Default,,0,0,0,,Y-Yeah!
+Dialogue: 0,0:12:29.98,0:12:32.11,Default,,0,0,0,,Welcome to Kirifuri Arena!
+Dialogue: 0,0:12:32.11,0:12:35.10,Default,,0,0,0,,My, you're all so cute!
+Dialogue: 0,0:12:35.76,0:12:40.96,Default,,0,0,0,,Let's see. Kinugawa Junior High\N3rd year, Manaka Mizusawa,
+Dialogue: 0,0:12:40.96,0:12:46.91,Default,,0,0,0,,Kaoruko Yanagida, Mami Ono,\Nand 2nd year, Ayaka Mizusawa, right?
+Dialogue: 0,0:12:46.91,0:12:47.88,Default,,0,0,0,,Yup!
+Dialogue: 0,0:12:47.88,0:12:51.09,Default,,0,0,0,,Thanks for coming to the ice hockey trial class!
+Dialogue: 0,0:12:51.09,0:12:52.87,Default,,0,0,0,,Let's head on in!
+Dialogue: 0,0:12:53.38,0:12:54.54,Default,,0,0,0,,Okay!
+Dialogue: 0,0:12:54.54,0:12:55.68,Default,,0,0,0,,--Brr!
+Dialogue: 0,0:12:55.68,0:12:57.13,Default,,0,0,0,,--It's chilly!
+Dialogue: 0,0:12:57.13,0:12:58.61,Default,,0,0,0,,I'm excited!
+Dialogue: 0,0:12:58.61,0:12:59.75,Default,,0,0,0,,Me, too!
+Dialogue: 0,0:13:00.70,0:13:02.96,Default,,0,0,0,,Change into your gym clothes.
+Dialogue: 0,0:13:02.96,0:13:04.22,Default,,0,0,0,,Roger that!
+Dialogue: 0,0:13:06.32,0:13:07.39,Default,,0,0,0,,Huh?
+Dialogue: 0,0:13:09.51,0:13:14.12,Default,,0,0,0,,Um, are you guys participating\Nin the trial class, too?
+Dialogue: 0,0:13:14.12,0:13:15.60,Default,,0,0,0,,Yeah, that's right.
+Dialogue: 0,0:13:16.19,0:13:18.37,Default,,0,0,0,,So are we!
+Dialogue: 0,0:13:18.37,0:13:22.23,Default,,0,0,0,,I'm Manaka Mizusawa,\Na 3rd year at Kinugawa.
+Dialogue: 0,0:13:22.23,0:13:25.53,Default,,0,0,0,,I'm Riko Saginuma from Kirifuri.
+Dialogue: 0,0:13:25.53,0:13:28.73,Default,,0,0,0,,And here's my extra, Naomi Takagi.
+Dialogue: 0,0:13:28.73,0:13:30.24,Default,,0,0,0,,We're 3rd years, too.
+Dialogue: 0,0:13:30.81,0:13:32.49,Default,,0,0,0,,Don't call me an extra.
+Dialogue: 0,0:13:33.24,0:13:34.71,Default,,0,0,0,,Nice to meet you!
+Dialogue: 0,0:13:35.25,0:13:36.96,Default,,0,0,0,,You, too!
+Dialogue: 0,0:13:38.57,0:13:44.20,Default,,0,0,0,,Nice! It's all girls this year!\NAnd what a harvest at that!
+Dialogue: 0,0:13:44.20,0:13:45.90,Default,,0,0,0,,In junior high, though.
+Dialogue: 0,0:13:45.90,0:13:48.97,Default,,0,0,0,,That's fine! It's an early harvest!
+Dialogue: 0,0:13:50.43,0:13:53.68,Default,,0,0,0,,At last, my ambition will come to light!
+Dialogue: 0,0:13:53.68,0:13:59.02,Default,,0,0,0,,You mean, that one idea of mixing\Nice hockey and entertainment?
+Dialogue: 0,0:13:59.02,0:14:04.84,Default,,0,0,0,,Yes! First, I'll train the girls to play\Nlike proper Dream Monkeys!
+Dialogue: 0,0:14:04.84,0:14:08.28,Default,,0,0,0,,But after each win, they'll do\Na victory dance on the ice!
+Dialogue: 0,0:14:08.85,0:14:12.95,Default,,0,0,0,,Such a clever performance\Nwill delight the audience!
+Dialogue: 0,0:14:12.95,0:14:17.87,Default,,0,0,0,,It'll bring in people who never\Nhad interest in ice hockey!
+Dialogue: 0,0:14:17.87,0:14:24.09,Default,,0,0,0,,Then I'll appear in my old uniform\Nand sing a song while I'm at it!
+Dialogue: 0,0:14:24.09,0:14:28.05,Default,,0,0,0,,We'll attract the biggest\Ncrowds you've ever seen!
+Dialogue: 0,0:14:28.51,0:14:30.43,Default,,0,0,0,,That's my ambition!
+Dialogue: 0,0:14:30.43,0:14:32.71,Default,,0,0,0,,More like your delusion.
+Dialogue: 0,0:14:32.71,0:14:35.77,Default,,0,0,0,,You're saying some pretty crazy things.
+Dialogue: 0,0:14:35.77,0:14:36.99,Default,,0,0,0,,Got a problem?!
+Dialogue: 0,0:14:36.99,0:14:38.28,Default,,0,0,0,,No!
+Dialogue: 0,0:14:38.28,0:14:42.11,Default,,0,0,0,,Anyway, don't you dare\Nlet these girls slip away!
+Dialogue: 0,0:14:42.11,0:14:43.73,Default,,0,0,0,,Right!
+Dialogue: 0,0:14:44.32,0:14:48.61,Default,,0,0,0,,Now then, we'll start with warm-ups\Nto help prevent injuries.
+Dialogue: 0,0:14:49.35,0:14:52.25,Default,,0,0,0,,We'll stretch along to a rhythm.
+Dialogue: 0,0:14:52.25,0:14:55.18,Default,,0,0,0,,Ice hockey uses a lot of muscles.
+Dialogue: 0,0:14:55.18,0:14:57.05,Default,,0,0,0,,We'll do upper body first.
+Dialogue: 0,0:14:57.05,0:15:00.58,Default,,0,0,0,,--One, two, three, four,
+Dialogue: 0,0:15:00.58,0:15:04.37,Alternate,,0,0,0,,{\an8}five, six, seven, eight.
+Dialogue: 0,0:15:00.58,0:15:02.58,Default,,0,0,0,,--Interesting stretch!
+Dialogue: 0,0:15:02.58,0:15:04.37,Default,,0,0,0,,--It sure is!
+Dialogue: 0,0:15:04.37,0:15:07.50,Alternate,,0,0,0,,{\an8}Two, two, three, four,
+Dialogue: 0,0:15:07.50,0:15:10.59,Alternate,,0,0,0,,{\an8}five, six, seven, eight.
+Dialogue: 0,0:15:11.48,0:15:15.25,Default,,0,0,0,,Here's one more useful for games. Ready?
+Dialogue: 0,0:15:15.25,0:15:17.75,Default,,0,0,0,,One, two, three, four
+Dialogue: 0,0:15:17.75,0:15:20.27,Alternate,,0,0,0,,{\an8}five, six, seven, eight.
+Dialogue: 0,0:15:20.04,0:15:22.78,Default,,0,0,0,,--This clearly isn't a stretch.
+Dialogue: 0,0:15:20.27,0:15:22.62,Alternate,,0,0,0,,{\an8}--Two, two, three, four,
+Dialogue: 0,0:15:22.62,0:15:24.73,Alternate,,0,0,0,,{\an8}five, six, seven, eight.
+Dialogue: 0,0:15:22.78,0:15:24.73,Default,,0,0,0,,It's more like a step.
+Dialogue: 0,0:15:25.22,0:15:27.76,Default,,0,0,0,,No, this isn't a step!
+Dialogue: 0,0:15:27.76,0:15:30.82,Default,,0,0,0,,It's a dance\Nused to evade defenders!
+Dialogue: 0,0:15:30.82,0:15:34.62,Default,,0,0,0,,--She said "dance" clear as day.
+Dialogue: 0,0:15:30.82,0:15:33.94,Alternate,,0,0,0,,{\an8}--Three, four, five, six, seven, eight.
+Dialogue: 0,0:15:34.62,0:15:35.53,Default,,0,0,0,,--Yeah.
+Dialogue: 0,0:15:33.94,0:15:36.20,Alternate,,0,0,0,,{\an8}One, two, three, four
+Dialogue: 0,0:15:36.20,0:15:38.00,Alternate,,0,0,0,,{\an8}five, six, seven, eight.
+Dialogue: 0,0:15:35.53,0:15:38.00,Default,,0,0,0,,--This is fun!
+Dialogue: 0,0:15:38.00,0:15:40.30,Alternate,,0,0,0,,{\an8}Everyone's keeping up, right?
+Dialogue: 0,0:15:40.30,0:15:42.68,Alternate,,0,0,0,,{\an8}On to the next dance routine!
+Dialogue: 0,0:15:42.68,0:15:44.21,Default,,0,0,0,,Dance routine?
+Dialogue: 0,0:15:44.85,0:15:46.56,Default,,0,0,0,,You're doing great!
+Dialogue: 0,0:15:46.56,0:15:50.72,Default,,0,0,0,,Now that you've\Nwarmed up, let's get you on the rink.
+Dialogue: 0,0:15:52.43,0:15:54.61,Default,,0,0,0,,You can change into\Nyour uniforms
+Dialogue: 0,0:15:54.61,0:15:56.26,Default,,0,0,0,,this way. {Join if unnecessary}
+Dialogue: 0,0:15:56.26,0:15:57.56,Default,,0,0,0,,Okay!
+Dialogue: 0,0:15:57.56,0:15:58.74,Default,,0,0,0,,At last!
+Dialogue: 0,0:15:58.74,0:16:00.22,Default,,0,0,0,,I can't wait!
+Dialogue: 0,0:16:00.22,0:16:03.09,Default,,0,0,0,,--Yeah.
+Dialogue: 0,0:16:00.75,0:16:03.09,Default,,0,0,0,,--We get to wear uniforms!
+Dialogue: 0,0:16:03.09,0:16:05.06,Default,,0,0,0,,These girls...
+Dialogue: 0,0:16:05.06,0:16:06.20,Default,,0,0,0,,This could work!
+Dialogue: 0,0:16:06.20,0:16:11.37,Default,,0,0,0,,I wonder what that phony\Nstretch dance thing was about.
+Dialogue: 0,0:16:11.37,0:16:14.63,Default,,0,0,0,,If it went any longer, I would've left.
+Dialogue: 0,0:16:14.63,0:16:17.70,Default,,0,0,0,,Hey now. The fun's about to start.
+Dialogue: 0,0:16:20.26,0:16:21.75,Default,,0,0,0,,Whoa!
+Dialogue: 0,0:16:21.75,0:16:23.83,Default,,0,0,0,,It looks like a robot!
+Dialogue: 0,0:16:23.83,0:16:26.88,Default,,0,0,0,,Wow. It's lighter than I thought.
+Dialogue: 0,0:16:26.88,0:16:29.20,Default,,0,0,0,,We can move easy in these.
+Dialogue: 0,0:16:29.20,0:16:29.80,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:16:29.80,0:16:32.15,Default,,0,0,0,,It seems like so much.
+Dialogue: 0,0:16:32.15,0:16:34.76,Default,,0,0,0,,If someone\Nruns into you, won't it hurt?
+Dialogue: 0,0:16:34.76,0:16:40.37,Default,,0,0,0,,It's okay. In girls' hockey, body checking\Nis an illegal hit.
+Dialogue: 0,0:16:40.37,0:16:41.81,Default,,0,0,0,,It shouldn't happen.
+Dialogue: 0,0:16:41.81,0:16:42.98,Default,,0,0,0,,I see!
+Dialogue: 0,0:16:42.98,0:16:44.57,Default,,0,0,0,,I feel stoked!
+Dialogue: 0,0:16:44.57,0:16:46.11,Default,,0,0,0,,I feel like a pilot.
+Dialogue: 0,0:16:47.94,0:16:49.15,Default,,0,0,0,,All right, guys!
+Dialogue: 0,0:16:49.15,0:16:51.69,Default,,0,0,0,,The trial class\Nstarts now!
+Dialogue: 0,0:16:51.69,0:16:52.86,Default,,0,0,0,,Let's rock and roll!
+Dialogue: 0,0:16:53.30,0:16:55.32,Default,,0,0,0,,"Rock and roll"?
+Dialogue: 0,0:17:00.74,0:17:04.33,Default,,0,0,0,,Is it safe to say everyone can skate?
+Dialogue: 0,0:17:04.33,0:17:05.83,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:17:05.83,0:17:09.41,Default,,0,0,0,,Okay! That's the locals for you.
+Dialogue: 0,0:17:09.41,0:17:11.84,Default,,0,0,0,,Try to keep up with me!
+Dialogue: 0,0:17:22.48,0:17:25.10,Default,,0,0,0,,It's weird skating in gear.
+Dialogue: 0,0:17:25.56,0:17:27.28,Default,,0,0,0,,You okay, Ayaka?
+Dialogue: 0,0:17:27.28,0:17:28.11,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:17:28.64,0:17:30.44,Default,,0,0,0,,Next up is edge control!
+Dialogue: 0,0:17:35.26,0:17:37.36,Default,,0,0,0,,Control it! Go slow if needed!
+Dialogue: 0,0:17:40.53,0:17:43.37,Default,,0,0,0,,Now then, you've warmed up to the rink
+Dialogue: 0,0:17:43.37,0:17:46.42,Default,,0,0,0,,so let's talk about the basics.
+Dialogue: 0,0:17:46.86,0:17:52.32,Default,,0,0,0,,Games last for 60 minutes,\Nbroken into three, 20-minute periods.
+Dialogue: 0,0:17:52.32,0:17:57.43,Default,,0,0,0,,Two teams compete to score\Nthe most goals in that time.
+Dialogue: 0,0:17:57.43,0:18:01.01,Default,,0,0,0,,There're two pieces of\Nequipment you need to play.
+Dialogue: 0,0:18:01.55,0:18:03.03,Default,,0,0,0,,The first is a puck.
+Dialogue: 0,0:18:03.03,0:18:05.85,Default,,0,0,0,,You score\Nby hitting it in the goal.
+Dialogue: 0,0:18:05.85,0:18:09.19,Default,,0,0,0,,It's about as big as a {\i1}jingoro senbei{\i0}...
+Dialogue: 0,0:18:09.19,0:18:12.68,Default,,0,0,0,,It's made of black rubber\Nand is very hard.
+Dialogue: 0,0:18:12.68,0:18:15.78,Default,,0,0,0,,You'll be sorry if it\Nhits you, so be careful.
+Dialogue: 0,0:18:15.78,0:18:18.74,Default,,0,0,0,,Ugh. I don't wanna get hurt.
+Dialogue: 0,0:18:18.74,0:18:22.08,Default,,0,0,0,,Yoko, what are you scaring 'em for?
+Dialogue: 0,0:18:22.57,0:18:24.24,Default,,0,0,0,,And this is a hockey stick.
+Dialogue: 0,0:18:24.77,0:18:26.71,Default,,0,0,0,,It's like a bath-stirring stick.
+Dialogue: 0,0:18:27.25,0:18:32.17,Default,,0,0,0,,You use the stick to control\Nthe puck by moving it like this.
+Dialogue: 0,0:18:41.24,0:18:43.43,Default,,0,0,0,,Now, you guys try it out!
+Dialogue: 0,0:18:45.94,0:18:47.43,Default,,0,0,0,,This is hard!
+Dialogue: 0,0:18:47.43,0:18:49.10,Default,,0,0,0,,I can't do it!
+Dialogue: 0,0:18:49.50,0:18:53.04,Default,,0,0,0,,It's okay. Nobody's good at first.
+Dialogue: 0,0:18:53.04,0:18:56.57,Default,,0,0,0,,Everyone get in a circle\Nand practice passing!
+Dialogue: 0,0:19:00.72,0:19:02.49,Default,,0,0,0,,Whoops! Sorry!
+Dialogue: 0,0:19:02.95,0:19:04.08,Default,,0,0,0,,Mizusawa!
+Dialogue: 0,0:19:06.16,0:19:07.12,Default,,0,0,0,,I got it!
+Dialogue: 0,0:19:07.12,0:19:08.84,Default,,0,0,0,,Here it comes, Mami!
+Dialogue: 0,0:19:08.84,0:19:09.58,Default,,0,0,0,,Okay!
+Dialogue: 0,0:19:10.57,0:19:11.96,Default,,0,0,0,,One, two...!
+Dialogue: 0,0:19:21.92,0:19:23.26,Default,,0,0,0,,Nice stop, Mami!
+Dialogue: 0,0:19:23.26,0:19:26.31,Default,,0,0,0,,Huh? Uh, yeah!
+Dialogue: 0,0:19:28.77,0:19:31.74,Default,,0,0,0,,You guys did great today!
+Dialogue: 0,0:19:31.74,0:19:33.39,Default,,0,0,0,,Thank you!
+Dialogue: 0,0:19:33.39,0:19:35.61,Default,,0,0,0,,What do you think of hockey?
+Dialogue: 0,0:19:35.61,0:19:42.57,Default,,0,0,0,,I was rusty since I haven't skated\Nin a while, but it came back to me!
+Dialogue: 0,0:19:42.57,0:19:47.10,Default,,0,0,0,,I'm new to using a stick,\Nbut it was kinda fun!
+Dialogue: 0,0:19:47.10,0:19:48.41,Default,,0,0,0,,Mm-hmm!
+Dialogue: 0,0:19:48.85,0:19:49.62,Default,,0,0,0,,I see!
+Dialogue: 0,0:19:50.18,0:19:52.65,Default,,0,0,0,,I'm sad we couldn't play more.
+Dialogue: 0,0:19:52.65,0:19:53.71,Default,,0,0,0,,What she said.
+Dialogue: 0,0:19:53.71,0:19:57.08,Default,,0,0,0,,Can I count on you to show up next week?!
+Dialogue: 0,0:19:57.08,0:19:58.67,Default,,0,0,0,,Okay!
+Dialogue: 0,0:19:59.35,0:20:02.05,Default,,0,0,0,,I was hoping for "okey-dokey."
+Dialogue: 0,0:20:02.05,0:20:05.39,Default,,0,0,0,,You're so old-fashioned, Yoko.
+Dialogue: 0,0:20:05.39,0:20:08.06,Default,,0,0,0,,I'm glad you all had fun!
+Dialogue: 0,0:20:08.06,0:20:10.03,Default,,0,0,0,,Be careful heading home!
+Dialogue: 0,0:20:10.03,0:20:11.35,Default,,0,0,0,,Okay!
+Dialogue: 0,0:20:11.96,0:20:14.32,Default,,0,0,0,,Whew! That was so much fun!
+Dialogue: 0,0:20:14.32,0:20:16.50,Default,,0,0,0,,The hours just flew by!
+Dialogue: 0,0:20:16.50,0:20:19.57,Default,,0,0,0,,I know! It was over before I knew it!
+Dialogue: 0,0:20:19.57,0:20:22.26,Default,,0,0,0,,What a fun experience!
+Dialogue: 0,0:20:22.26,0:20:23.53,Default,,0,0,0,,I had a blast!
+Dialogue: 0,0:20:23.53,0:20:25.94,Default,,0,0,0,,Think you'll come back?
+Dialogue: 0,0:20:25.94,0:20:27.28,Default,,0,0,0,,Maybe!
+Dialogue: 0,0:20:27.28,0:20:27.99,Default,,0,0,0,,Um...!
+Dialogue: 0,0:20:28.54,0:20:29.95,Default,,0,0,0,,Hmm?
+Dialogue: 0,0:20:33.01,0:20:33.96,Default,,0,0,0,,Well...
+Dialogue: 0,0:20:35.46,0:20:38.16,Default,,0,0,0,,Ice hockey was fun!
+Dialogue: 0,0:20:38.16,0:20:43.00,Default,,0,0,0,,Passing the puck\Naround... Everyone chasing after it...
+Dialogue: 0,0:20:43.00,0:20:43.72,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:20:43.72,0:20:48.01,Default,,0,0,0,,I love embroidery.
+Dialogue: 0,0:20:48.01,0:20:52.69,Default,,0,0,0,,Stitch by stitch,\Nwatching a project come together...
+Dialogue: 0,0:20:52.69,0:20:55.65,Default,,0,0,0,,There's such a sense of accomplishment!
+Dialogue: 0,0:20:56.50,0:20:57.48,Default,,0,0,0,,Mami?
+Dialogue: 0,0:20:57.48,0:21:02.66,Default,,0,0,0,,But today, connecting the puck\Naround was really neat!
+Dialogue: 0,0:21:02.66,0:21:07.45,Default,,0,0,0,,For us to work together like that...\NIt was so much fun!
+Dialogue: 0,0:21:07.45,0:21:10.16,Default,,0,0,0,,So... So...!
+Dialogue: 0,0:21:14.57,0:21:17.21,Default,,0,0,0,,Let's play ice hockey next week!
+Dialogue: 0,0:21:17.66,0:21:18.71,Default,,0,0,0,,Mami...
+Dialogue: 0,0:21:18.71,0:21:21.89,Default,,0,0,0,,I'm surprised you're the one saying it.
+Dialogue: 0,0:21:21.89,0:21:22.96,Default,,0,0,0,,Agreed.
+Dialogue: 0,0:21:23.40,0:21:25.76,Default,,0,0,0,,Yeah, let's! Let's do it!
+Dialogue: 0,0:21:27.47,0:21:30.93,Default,,0,0,0,,Let's do it again next week, too!
+Dialogue: 0,0:21:30.93,0:21:32.27,Default,,0,0,0,,Okey-dokey!
+Dialogue: 0,0:21:33.82,0:21:34.94,Default,,0,0,0,,Right?
+Dialogue: 0,0:21:36.82,0:21:37.65,Default,,0,0,0,,Yup!
+Dialogue: 0,0:21:38.83,0:21:39.98,Default,,0,0,0,,Old-fashioned!
+Dialogue: 0,0:21:40.46,0:21:44.44,Default,,0,0,0,,In that moment, I--no, we...
+Dialogue: 0,0:21:45.35,0:21:49.95,Default,,0,0,0,,discovered\Nour sparkling springtime of youth!
+Dialogue: 0,0:23:36.02,0:23:38.66,Default,,0,0,0,,Connect the puck, even in a game!
