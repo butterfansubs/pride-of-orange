@@ -1,0 +1,323 @@
+﻿[Script Info]
+Title: [Butter] Puraore! Pride of Orange - 04
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1920
+PlayResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Tiresias Infofont,72,&H00FFFFFF,&H000019FF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,3.8,0.8,2,240,240,81,1
+Style: Alternate,Tiresias Infofont,72,&H00FFFFFF,&H000019FF,&H00663300,&H96000000,0,0,0,0,100,100,0,0,1,3.8,0.8,2,240,240,81,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,== Dialogue ============================
+
+Dialogue: 0,0:00:27.11,0:00:28.77,Default,,0,0,0,,Manaka!
+Dialogue: 0,0:00:31.15,0:00:32.90,Default,,0,0,0,,Yo!
+Dialogue: 0,0:00:32.90,0:00:35.49,Default,,0,0,0,,We're finally back at it today!
+Dialogue: 0,0:00:35.49,0:00:36.53,Default,,0,0,0,,Yup!
+Dialogue: 0,0:00:36.53,0:00:38.58,Default,,0,0,0,,No more exams!
+Dialogue: 0,0:00:38.58,0:00:40.70,Default,,0,0,0,,And we're in the same school!
+Dialogue: 0,0:00:40.70,0:00:42.29,Default,,0,0,0,,We sure are!
+Dialogue: 0,0:00:43.20,0:00:50.71,Default,,0,0,0,,I feel left out and I don't like it.\NUgh! I wish I was a high schooler!
+Dialogue: 0,0:00:50.71,0:00:54.51,Default,,0,0,0,,Now, now. Cheer up, new club president.
+Dialogue: 0,0:00:54.51,0:00:55.84,Default,,0,0,0,,You're president?
+Dialogue: 0,0:00:55.84,0:01:01.56,Default,,0,0,0,,Yup! I was the only one left,\Nso I recruited eight of my friends!
+Dialogue: 0,0:01:01.56,0:01:03.14,Default,,0,0,0,,Clever girl.
+Dialogue: 0,0:01:03.14,0:01:07.94,Default,,0,0,0,,This year, I'm giving embroidery\Nand hockey all I've got!
+Dialogue: 0,0:01:07.94,0:01:10.36,Default,,0,0,0,,Pumped up, are we?
+Dialogue: 0,0:02:47.00,0:02:50.62,Default,,0,0,0,,Manaka! Kaoruko! Yay!
+Dialogue: 0,0:02:50.62,0:02:51.79,Default,,0,0,0,,Riko!
+Dialogue: 0,0:02:51.79,0:02:54.17,Default,,0,0,0,,Hey! Practice this weekend?
+Dialogue: 0,0:02:54.17,0:02:55.92,Default,,0,0,0,,Okey-dokey!
+Dialogue: 0,0:02:55.92,0:02:59.51,Default,,0,0,0,,Kaorun, did you turn into Yoko?
+Dialogue: 0,0:03:04.26,0:03:06.81,Default,,0,0,0,,Wanna come over after practice?
+Dialogue: 0,0:03:06.81,0:03:08.10,Default,,0,0,0,,Yeah! Totally!
+Dialogue: 0,0:03:09.68,0:03:13.52,Default,,0,0,0,,Would you guys like to join\NNikko Dream Monkeys?
+Dialogue: 0,0:03:13.52,0:03:14.61,Default,,0,0,0,,Huh?
+Dialogue: 0,0:03:14.61,0:03:16.61,Default,,0,0,0,,You mean...?
+Dialogue: 0,0:03:16.61,0:03:20.07,Default,,0,0,0,,As in becoming official members.
+Dialogue: 0,0:03:20.07,0:03:26.03,Default,,0,0,0,,You got a taste of hockey, and we can't\Nextend the trial class forever.
+Dialogue: 0,0:03:26.03,0:03:28.08,Default,,0,0,0,,Team members, huh?
+Dialogue: 0,0:03:28.08,0:03:32.08,Default,,0,0,0,,I've been wanting to ask\Never since the match.
+Dialogue: 0,0:03:32.08,0:03:36.34,Default,,0,0,0,,Since you're in high school now,\Nit's about time I did.
+Dialogue: 0,0:03:36.34,0:03:40.92,Default,,0,0,0,,Yoko's been itching to bring\Nit up for the longest time.
+Dialogue: 0,0:03:40.92,0:03:43.89,Default,,0,0,0,,But finally, the time has come!
+Dialogue: 0,0:03:43.89,0:03:48.77,Default,,0,0,0,,Actually, we've been talking\Nabout what to do, too.
+Dialogue: 0,0:03:48.77,0:03:52.35,Default,,0,0,0,,Sure, we might have lost\NMami's send-off match,
+Dialogue: 0,0:03:52.35,0:03:56.65,Default,,0,0,0,,but we got to experience\Nhow exciting ice hockey is,
+Dialogue: 0,0:03:56.65,0:04:02.74,Default,,0,0,0,,and getting to put what we learned\Ninto practice was an amazing feeling.
+Dialogue: 0,0:04:03.99,0:04:06.91,Default,,0,0,0,,How do we join the team?
+Dialogue: 0,0:04:06.91,0:04:13.62,Default,,0,0,0,,Are you guys telling me that you enjoy\Nice hockey? That you wanna keep at it?
+Dialogue: 0,0:04:13.62,0:04:15.25,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:04:19.84,0:04:21.84,Default,,0,0,0,,Huh?! Real tears?!
+Dialogue: 0,0:04:21.84,0:04:24.22,Default,,0,0,0,,I'm not crying! I'm not!
+Dialogue: 0,0:04:24.22,0:04:26.85,Default,,0,0,0,,You're crying, clear as day!
+Dialogue: 0,0:04:28.43,0:04:31.73,Default,,0,0,0,,I hear your enthusiasm, loud and clear!
+Dialogue: 0,0:04:31.73,0:04:34.31,Default,,0,0,0,,So, we can join, right?
+Dialogue: 0,0:04:34.31,0:04:37.40,Default,,0,0,0,,Yes! If you pass the tests.
+Dialogue: 0,0:04:37.40,0:04:38.52,Default,,0,0,0,,Tests?
+Dialogue: 0,0:04:38.52,0:04:39.94,Default,,0,0,0,,Written and skills.
+Dialogue: 0,0:04:39.94,0:04:44.78,Default,,0,0,0,,Eh? A written test? I've gotta\Nstudy for hockey, too?
+Dialogue: 0,0:04:44.78,0:04:45.95,Default,,0,0,0,,Of course!
+Dialogue: 0,0:04:45.95,0:04:48.91,Default,,0,0,0,,The world isn't kind, is it?
+Dialogue: 0,0:04:48.91,0:04:53.66,Default,,0,0,0,,The skills test is skating and\N100 laps around the rink.
+Dialogue: 0,0:04:53.66,0:04:56.25,Default,,0,0,0,,The written test covers the rules.
+Dialogue: 0,0:05:15.10,0:05:16.69,Default,,0,0,0,,Yu?
+Dialogue: 0,0:05:16.69,0:05:19.86,Default,,0,0,0,,It shouldn't have gone like that.
+Dialogue: 0,0:05:19.86,0:05:23.11,Default,,0,0,0,,Huh? But we won the match.
+Dialogue: 0,0:05:23.11,0:05:29.03,Default,,0,0,0,,You think that matters? It's a given\Nwe'll win, but what matters is how!
+Dialogue: 0,0:05:29.03,0:05:34.12,Default,,0,0,0,,Kuga and Sachin,\Nyour coordination was awful.
+Dialogue: 0,0:05:36.16,0:05:38.63,Default,,0,0,0,,There's nothing to be happy about.
+Dialogue: 0,0:05:38.63,0:05:43.63,Default,,0,0,0,,We're champs, but only in Japan!\NWe're nothing on the world stage!
+Dialogue: 0,0:05:43.63,0:05:45.63,Default,,0,0,0,,Even so...
+Dialogue: 0,0:05:45.63,0:05:49.34,Default,,0,0,0,,Just 'cuz you're a U-16 MVP...
+Dialogue: 0,0:05:49.34,0:05:52.56,Default,,0,0,0,,What have I said that's wrong?
+Dialogue: 0,0:05:52.56,0:05:59.65,Default,,0,0,0,,What you've said is true. But that\Ndoesn't mean it helps to be said.
+Dialogue: 0,0:05:59.65,0:06:03.40,Default,,0,0,0,,So pointing out our weak\Npoints doesn't help?!
+Dialogue: 0,0:06:03.40,0:06:07.82,Default,,0,0,0,,It helps, but ice hockey is a team sport.
+Dialogue: 0,0:06:07.82,0:06:14.62,Default,,0,0,0,,You don't think I know?! But you can't be\Na good team without individual skill!
+Dialogue: 0,0:06:14.62,0:06:19.54,Default,,0,0,0,,Teams that make up for\Nshortcomings are the worst!
+Dialogue: 0,0:06:19.54,0:06:21.25,Default,,0,0,0,,Yu...
+Dialogue: 0,0:06:23.75,0:06:25.46,Default,,0,0,0,,What's wrong?
+Dialogue: 0,0:06:27.63,0:06:29.05,Default,,0,0,0,,Yu!
+Dialogue: 0,0:06:39.73,0:06:44.94,Default,,0,0,0,,I quit. I'm sick of hockey\Nand this team.
+Dialogue: 0,0:06:44.94,0:06:51.57,Default,,0,0,0,,And you were just picked as MVP, too...\NWhy not take a break and come back?
+Dialogue: 0,0:06:51.57,0:06:54.74,Default,,0,0,0,,I won't come back. I'm leaving Kushiro.
+Dialogue: 0,0:06:54.74,0:06:55.95,Default,,0,0,0,,What?
+Dialogue: 0,0:06:55.95,0:07:01.96,Default,,0,0,0,,I'm staying with my grandparents in Nikko.\NI'll find a school there.
+Dialogue: 0,0:07:01.96,0:07:05.17,Default,,0,0,0,,In Nikko... I see...
+Dialogue: 0,0:07:05.17,0:07:10.26,Default,,0,0,0,,I won't stop you from leaving the team,\Nbut don't give up hockey.
+Dialogue: 0,0:07:10.26,0:07:14.01,Default,,0,0,0,,Hopefully, we'll see you\Nin the rink again.
+Dialogue: 0,0:07:14.01,0:07:16.47,Default,,0,0,0,,I already made up my mind.
+Dialogue: 0,0:07:19.48,0:07:24.86,Default,,0,0,0,,Yu! Could you lend me\Na hand making donuts?
+Dialogue: 0,0:07:24.86,0:07:26.19,Default,,0,0,0,,Okay.
+Dialogue: 0,0:07:29.44,0:07:32.16,Default,,0,0,0,,Grandma, are these done?
+Dialogue: 0,0:07:32.16,0:07:35.99,Default,,0,0,0,,A bit longer. They're better overcooked.
+Dialogue: 0,0:07:35.99,0:07:40.50,Default,,0,0,0,,Oh, really? They smell delicious.
+Dialogue: 0,0:07:45.71,0:07:47.75,Default,,0,0,0,,Can't contact her?
+Dialogue: 0,0:07:47.75,0:07:50.38,Default,,0,0,0,,She's not picking up.
+Dialogue: 0,0:07:50.38,0:07:54.39,Default,,0,0,0,,So, why did Yu Kiyose come to Nikko?
+Dialogue: 0,0:07:54.39,0:07:57.35,Default,,0,0,0,,Some squabble with her teammates.
+Dialogue: 0,0:07:57.35,0:08:02.98,Default,,0,0,0,,She left Snow White and Kushiro behind\Nto live here with her grandparents.
+Dialogue: 0,0:08:02.98,0:08:04.69,Default,,0,0,0,,I see.
+Dialogue: 0,0:08:04.69,0:08:11.57,Default,,0,0,0,,Snow White's coach, Atsumi Kawakami,\Nused to be my teammate.
+Dialogue: 0,0:08:11.57,0:08:14.49,Default,,0,0,0,,She wants me to do something.
+Dialogue: 0,0:08:14.49,0:08:21.16,Default,,0,0,0,,If she's the U-16 MVP ace of\Na strong team, she must be good.
+Dialogue: 0,0:08:21.16,0:08:23.62,Default,,0,0,0,,She really is.
+Dialogue: 0,0:08:23.62,0:08:31.01,Default,,0,0,0,,If Yu Kiyose quits for good, it's a huge\Nloss for ice hockey in Japan.
+Dialogue: 0,0:08:31.01,0:08:35.72,Default,,0,0,0,,You must think really highly of her.
+Dialogue: 0,0:08:35.72,0:08:45.23,Default,,0,0,0,,A girl knowing nothing but hockey runs off\Nto start a new life as a normal girl...
+Dialogue: 0,0:08:45.23,0:08:50.44,Default,,0,0,0,,Little does she know she's\Nfallen straight into my claws!
+Dialogue: 0,0:08:50.44,0:08:53.45,Default,,0,0,0,,Quit with that face. It's scary.
+Dialogue: 0,0:08:53.45,0:08:59.87,Default,,0,0,0,,The Dream Monkeys play in the Women's\NIce Hockey All-Japan Championship B.
+Dialogue: 0,0:08:59.87,0:09:05.08,Default,,0,0,0,,Unfortunately, we've lost\Nin the first match every year.
+Dialogue: 0,0:09:05.08,0:09:09.42,Default,,0,0,0,,On the other hand, Snow White\Nfell to B last season,
+Dialogue: 0,0:09:09.42,0:09:15.30,Default,,0,0,0,,but they used to be a top contender\Nin A where the best eight teams play.
+Dialogue: 0,0:09:15.30,0:09:17.47,Default,,0,0,0,,Why'd they fall to B?
+Dialogue: 0,0:09:17.47,0:09:20.01,Default,,0,0,0,,'Cuz they lost Yu Kiyose.
+Dialogue: 0,0:09:20.01,0:09:26.19,Default,,0,0,0,,If their ace comes to us,\Nwe can win in B and rank up to A!
+Dialogue: 0,0:09:26.19,0:09:29.02,Default,,0,0,0,,This is a once-in-a-lifetime chance!
+Dialogue: 0,0:09:29.02,0:09:32.94,Default,,0,0,0,,There it is. I knew you\Nwere up to something.
+Dialogue: 0,0:09:32.94,0:09:36.49,Default,,0,0,0,,You won't get away, Yu Kiyose!
+Dialogue: 0,0:09:45.16,0:09:49.54,Default,,0,0,0,,Argh! I like hockey, but studying sucks!
+Dialogue: 0,0:09:49.54,0:09:52.92,Default,,0,0,0,,I'll just remember the rules with my body!
+Dialogue: 0,0:09:52.92,0:09:56.76,Default,,0,0,0,,Using your leg to obstruct\Na player is called "kneeing."
+Dialogue: 0,0:09:56.76,0:10:00.01,Default,,0,0,0,,Sis! I'm coming in!
+Dialogue: 0,0:10:00.01,0:10:02.81,Default,,0,0,0,,Hmm? What are you doing?
+Dialogue: 0,0:10:02.81,0:10:08.44,Default,,0,0,0,,Studying rules. Stuff doesn't\Nstick in my head when I read.
+Dialogue: 0,0:10:08.44,0:10:13.48,Default,,0,0,0,,It's way easier to remember\Nwhen I use my body!
+Dialogue: 0,0:10:13.48,0:10:15.53,Default,,0,0,0,,Need help studying?
+Dialogue: 0,0:10:15.53,0:10:19.95,Default,,0,0,0,,Huh, really?! Ayaka, ask me questions!
+Dialogue: 0,0:10:19.95,0:10:24.08,Default,,0,0,0,,Question one: How much\Ntime-out for a minor penalty?
+Dialogue: 0,0:10:24.08,0:10:25.70,Default,,0,0,0,,Um...
+Dialogue: 0,0:10:25.70,0:10:29.00,Default,,0,0,0,,Give up? The answer's two minutes.
+Dialogue: 0,0:10:29.00,0:10:32.00,Default,,0,0,0,,Question two: What's tripping?
+Dialogue: 0,0:10:32.00,0:10:33.34,Default,,0,0,0,,Tripping?
+Dialogue: 0,0:10:33.34,0:10:35.96,Default,,0,0,0,,Making the opponent fall over.
+Dialogue: 0,0:10:35.96,0:10:40.01,Default,,0,0,0,,Question three: What causes\Na five-minute penalty?
+Dialogue: 0,0:10:40.01,0:10:42.05,Default,,0,0,0,,Oh, I know! Magi!
+Dialogue: 0,0:10:42.05,0:10:43.97,Default,,0,0,0,,No, not "magician."
+Dialogue: 0,0:10:43.97,0:10:46.27,Default,,0,0,0,,I meant, "majority"!
+Dialogue: 0,0:10:46.27,0:10:49.02,Default,,0,0,0,,Bzzt! A "major penalty."
+Dialogue: 0,0:10:49.02,0:10:51.27,Default,,0,0,0,,Yeah, that! Almost had it!
+Dialogue: 0,0:10:51.27,0:10:53.15,Default,,0,0,0,,Not even close.
+Dialogue: 0,0:10:53.15,0:10:57.49,Default,,0,0,0,,Next question: What is "butt ending"?
+Dialogue: 0,0:10:57.49,0:11:00.24,Default,,0,0,0,,Huh? When the main character dies?
+Dialogue: 0,0:11:00.24,0:11:04.99,Default,,0,0,0,,That's "bad ending"! It's when you\Njab people with the handle!
+Dialogue: 0,0:11:04.99,0:11:07.33,Default,,0,0,0,,You're totally hopeless!
+Dialogue: 0,0:11:07.33,0:11:09.29,Default,,0,0,0,,Well, it's hard!
+Dialogue: 0,0:11:09.29,0:11:12.29,Default,,0,0,0,,I don't think it's {\i1}that {\i0}hard.
+Dialogue: 0,0:11:12.29,0:11:14.21,Default,,0,0,0,,How about easy ones?
+Dialogue: 0,0:11:14.21,0:11:16.05,Default,,0,0,0,,Yes, please!
+Dialogue: 0,0:11:16.05,0:11:19.63,Default,,0,0,0,,Using your hand or stick\Nto stop a player is...?
+Dialogue: 0,0:11:19.63,0:11:22.26,Default,,0,0,0,,I know! Holding!
+Dialogue: 0,0:11:22.26,0:11:23.60,Default,,0,0,0,,Correct!
+Dialogue: 0,0:11:23.60,0:11:26.01,Default,,0,0,0,,Woo-hoo! Hmm?
+Dialogue: 0,0:11:26.01,0:11:30.06,Default,,0,0,0,,Ayaka, you know the rules?\NYou're not using a book.
+Dialogue: 0,0:11:30.06,0:11:31.14,Default,,0,0,0,,Of course!
+Dialogue: 0,0:11:31.14,0:11:32.65,Default,,0,0,0,,Whoa!
+Dialogue: 0,0:11:32.65,0:11:36.11,Default,,0,0,0,,At this rate, you're not gonna pass, Sis.
+Dialogue: 0,0:11:36.11,0:11:39.28,Default,,0,0,0,,Wha--?! Oh no!
+Dialogue: 0,0:11:51.16,0:11:53.71,Default,,0,0,0,,Too slow! Speed it up!
+Dialogue: 0,0:12:00.01,0:12:02.97,Default,,0,0,0,,Your stamina's much better, Manaka.
+Dialogue: 0,0:12:02.97,0:12:07.51,Default,,0,0,0,,Yeah! I've been running\Nand working out every day!
+Dialogue: 0,0:12:07.51,0:12:09.68,Default,,0,0,0,,Good, good!
+Dialogue: 0,0:12:10.68,0:12:12.52,Default,,0,0,0,,Something wrong, Aya?
+Dialogue: 0,0:12:12.52,0:12:14.73,Default,,0,0,0,,No, I'm fine.
+Dialogue: 0,0:12:14.73,0:12:16.65,Default,,0,0,0,,Okay! Break's over!
+Dialogue: 0,0:12:16.65,0:12:17.90,Default,,0,0,0,,Right!
+Dialogue: 0,0:12:21.70,0:12:23.91,Default,,0,0,0,,Naomi! Slow start!
+Dialogue: 0,0:12:23.91,0:12:26.28,Default,,0,0,0,,Riko! Keep your speed up!
+Dialogue: 0,0:12:26.28,0:12:28.49,Default,,0,0,0,,Manaka! You can do better!
+Dialogue: 0,0:12:28.49,0:12:31.00,Default,,0,0,0,,Kaoruko! Finish stronger!
+Dialogue: 0,0:12:31.00,0:12:32.41,Default,,0,0,0,,Ayaka...!
+Dialogue: 0,0:12:48.22,0:12:51.56,Default,,0,0,0,,Don't you think Yoko's getting harsher?
+Dialogue: 0,0:12:51.56,0:12:54.98,Default,,0,0,0,,Agreed. It's her "tough love."
+Dialogue: 0,0:12:54.98,0:12:58.40,Default,,0,0,0,,If she's going for a carrot\Nand stick approach,
+Dialogue: 0,0:12:58.40,0:13:01.53,Default,,0,0,0,,I'd like more carrot and less stick.
+Dialogue: 0,0:13:01.53,0:13:02.82,Default,,0,0,0,,I'm with you!
+Dialogue: 0,0:13:02.82,0:13:04.82,Default,,0,0,0,,What is our "carrot"?
+Dialogue: 0,0:13:04.82,0:13:06.99,Default,,0,0,0,,Everyone passing the test?
+Dialogue: 0,0:13:06.99,0:13:08.83,Default,,0,0,0,,That'd be nice!
+Dialogue: 0,0:13:08.83,0:13:10.41,Default,,0,0,0,,Aya?
+Dialogue: 0,0:13:10.41,0:13:13.20,Default,,0,0,0,,I think I might not pass.
+Dialogue: 0,0:13:13.20,0:13:16.62,Default,,0,0,0,,Huh? What are you talking about?
+Dialogue: 0,0:13:17.92,0:13:22.63,Default,,0,0,0,,Compared to you guys,\NI have no endurance and I'm slow.
+Dialogue: 0,0:13:22.63,0:13:27.09,Default,,0,0,0,,I still can't get used\Nto wearing the gear.
+Dialogue: 0,0:13:27.09,0:13:29.93,Default,,0,0,0,,I can't even move how I want.
+Dialogue: 0,0:13:29.93,0:13:31.39,Default,,0,0,0,,Ayaka...
+Dialogue: 0,0:13:31.39,0:13:37.15,Default,,0,0,0,,Oh, well! I might be the only one\Nwho fails, but whatever!
+Dialogue: 0,0:13:37.15,0:13:41.07,Default,,0,0,0,,Hey, what are you saying?\NWe're playing together!
+Dialogue: 0,0:13:42.07,0:13:44.24,Default,,0,0,0,,Well, I want to.
+Dialogue: 0,0:13:44.24,0:13:45.40,Default,,0,0,0,,Then...!
+Dialogue: 0,0:13:45.40,0:13:48.24,Default,,0,0,0,,But if I can't, I can't.
+Dialogue: 0,0:13:48.24,0:13:51.95,Default,,0,0,0,,There's no point unless\Nwe're all together.
+Dialogue: 0,0:13:51.95,0:13:52.99,Default,,0,0,0,,Kao...
+Dialogue: 0,0:13:52.99,0:13:56.29,Default,,0,0,0,,It's either all of us, or none of us.
+Dialogue: 0,0:13:56.29,0:13:58.38,Default,,0,0,0,,I think so, too.
+Dialogue: 0,0:13:58.38,0:13:59.75,Default,,0,0,0,,Riko...
+Dialogue: 0,0:13:59.75,0:14:06.84,Default,,0,0,0,,Same. You're small and cute,\Nso we need you on the team.
+Dialogue: 0,0:14:06.84,0:14:08.34,Default,,0,0,0,,What's that mean?
+Dialogue: 0,0:14:08.34,0:14:09.72,Default,,0,0,0,,Mmm!
+Dialogue: 0,0:14:12.35,0:14:15.31,Default,,0,0,0,,Let's all pass, together!
+Dialogue: 0,0:14:27.45,0:14:28.95,Default,,0,0,0,,Right!
+Dialogue: 0,0:14:30.70,0:14:32.53,Default,,0,0,0,,Let's do this!
+Dialogue: 0,0:14:32.53,0:14:34.49,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:14:38.12,0:14:40.25,Default,,0,0,0,,--Sis!\N--Hmm?
+Dialogue: 0,0:14:40.25,0:14:42.59,Default,,0,0,0,,Can I come with you?
+Dialogue: 0,0:14:42.59,0:14:47.05,Default,,0,0,0,,Sure, but I thought you were\Nafraid of ghosts at night.
+Dialogue: 0,0:14:47.05,0:14:52.85,Default,,0,0,0,,I'm still scared, but...\NStarting today, I'm running!
+Dialogue: 0,0:14:52.85,0:14:54.51,Default,,0,0,0,,All right!
+Dialogue: 0,0:15:04.52,0:15:08.32,Default,,0,0,0,,Today, we'll work on\Nendurance! Go do 50 laps!
+Dialogue: 0,0:15:08.32,0:15:09.70,Default,,0,0,0,,Okay!
+Dialogue: 0,0:15:27.76,0:15:29.59,Default,,0,0,0,,Aya, keep it up!
+Dialogue: 0,0:15:29.59,0:15:31.01,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:15:31.01,0:15:32.34,Default,,0,0,0,,You've got this!
+Dialogue: 0,0:15:32.34,0:15:33.55,Default,,0,0,0,,I know!
+Dialogue: 0,0:15:33.55,0:15:34.55,Default,,0,0,0,,Aya!
+Dialogue: 0,0:15:34.55,0:15:36.14,Default,,0,0,0,,Okay!
+Dialogue: 0,0:15:43.94,0:15:46.90,Default,,0,0,0,,That's it. That's what's important.
+Dialogue: 0,0:15:46.90,0:15:48.28,Default,,0,0,0,,What is?
+Dialogue: 0,0:15:48.28,0:15:56.49,Default,,0,0,0,,One of them is too young and too small.\NShe can't do what the others can do.
+Dialogue: 0,0:15:56.49,0:16:01.46,Default,,0,0,0,,She's probably flustered,\Nbut she's not losing to it.
+Dialogue: 0,0:16:01.46,0:16:04.29,Default,,0,0,0,,Individual skill is important,
+Dialogue: 0,0:16:04.29,0:16:08.71,Default,,0,0,0,,but it's just as important\Nfor a team to become one.
+Dialogue: 0,0:16:08.71,0:16:12.47,Default,,0,0,0,,Those girls know that without being told.
+Dialogue: 0,0:16:12.47,0:16:16.85,Default,,0,0,0,,By supporting one another,\Nthey'll all become stronger.
+Dialogue: 0,0:16:16.85,0:16:20.27,Default,,0,0,0,,Hey, Sato! Don't go\Nstealing the good lines!
+Dialogue: 0,0:16:20.27,0:16:21.35,Default,,0,0,0,,Huh?
+Dialogue: 0,0:16:21.35,0:16:24.35,Default,,0,0,0,,Thanks for today...
+Dialogue: 0,0:16:24.35,0:16:25.77,Default,,0,0,0,,I'm pooped!
+Dialogue: 0,0:16:25.77,0:16:29.15,Default,,0,0,0,,My legs feel like a baby fawn's.
+Dialogue: 0,0:16:29.15,0:16:31.65,Default,,0,0,0,,I can't walk a single step!
+Dialogue: 0,0:16:31.65,0:16:33.11,Default,,0,0,0,,Huh?
+Dialogue: 0,0:16:33.11,0:16:34.45,Default,,0,0,0,,Hmm?
+Dialogue: 0,0:16:36.24,0:16:37.58,Default,,0,0,0,,You're...?
+Dialogue: 0,0:16:37.58,0:16:40.12,Default,,0,0,0,,Are you guys the tryouts?
+Dialogue: 0,0:16:40.12,0:16:44.96,Default,,0,0,0,,Are you guys... our {\i1}senpais{\i0}?!
+Dialogue: 0,0:16:44.96,0:16:50.76,Default,,0,0,0,,I just can't remember the rules!\NWhat can I do to help?
+Dialogue: 0,0:16:50.76,0:16:53.59,Default,,0,0,0,,Huh? Don't you have a rule book?
+Dialogue: 0,0:16:53.59,0:16:58.18,Default,,0,0,0,,I do, but... Are there any tricks to it?
+Dialogue: 0,0:16:58.18,0:17:00.56,Default,,0,0,0,,Good old memorization.
+Dialogue: 0,0:17:00.56,0:17:02.02,Default,,0,0,0,,Go figure.
+Dialogue: 0,0:17:02.02,0:17:07.48,Default,,0,0,0,,I'm way slower than everyone.\NI just can't keep up with 'em.
+Dialogue: 0,0:17:07.48,0:17:11.74,Default,,0,0,0,,The 100-lap test?\NIt's not a race, you know.
+Dialogue: 0,0:17:11.74,0:17:13.24,Default,,0,0,0,,Really?
+Dialogue: 0,0:17:13.24,0:17:17.74,Default,,0,0,0,,The whole point of it is\Nto learn efficient skating.
+Dialogue: 0,0:17:17.74,0:17:18.78,Default,,0,0,0,,Yeah?
+Dialogue: 0,0:17:18.78,0:17:24.37,Default,,0,0,0,,So just relax, find what works\Nfor you, and skate till it's over.
+Dialogue: 0,0:17:24.37,0:17:26.04,Default,,0,0,0,,Till it's over...
+Dialogue: 0,0:17:26.04,0:17:30.92,Default,,0,0,0,,That's right. Panic too much\Nand your skating will be sloppy.
+Dialogue: 0,0:17:30.92,0:17:31.96,Default,,0,0,0,,Right!
+Dialogue: 0,0:17:31.96,0:17:36.51,Default,,0,0,0,,Good luck! I'm looking forward\Nto playing with you!
+Dialogue: 0,0:17:36.51,0:17:37.89,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:17:59.66,0:18:00.99,Default,,0,0,0,,It's time.
+Dialogue: 0,0:18:00.99,0:18:03.20,Default,,0,0,0,,Yup. I hope we pass.
+Dialogue: 0,0:18:03.20,0:18:09.58,Default,,0,0,0,,I did everything I can. If Yoko fails me,\NI'll cry till she gives in.
+Dialogue: 0,0:18:09.58,0:18:11.75,Default,,0,0,0,,Eh? You'll cry?
+Dialogue: 0,0:18:11.75,0:18:14.51,Default,,0,0,0,,Well, I really wanna pass!
+Dialogue: 0,0:18:14.51,0:18:19.51,Default,,0,0,0,,Let's do it! All of us! And then\Nwe'll play hockey together!
+Dialogue: 0,0:18:19.51,0:18:21.18,Default,,0,0,0,,You bet!
+Dialogue: 0,0:18:34.53,0:18:36.82,Default,,0,0,0,,All right. Time's up!
+Dialogue: 0,0:18:38.66,0:18:41.57,Default,,0,0,0,,Everybody passed the written test.
+Dialogue: 0,0:18:41.57,0:18:44.54,Default,,0,0,0,,Yay! Yippee!
+Dialogue: 0,0:18:44.54,0:18:46.29,Default,,0,0,0,,It was crazy easy.
+Dialogue: 0,0:18:46.29,0:18:48.08,Default,,0,0,0,,She's far too happy.
+Dialogue: 0,0:18:48.08,0:18:50.38,Default,,0,0,0,,Next up is the skills test!
+Dialogue: 0,0:18:50.38,0:18:51.67,Default,,0,0,0,,Right!
+Dialogue: 0,0:19:12.90,0:19:16.44,Default,,0,0,0,,Lastly, the 100 laps. Good luck.
+Dialogue: 0,0:19:16.44,0:19:17.99,Default,,0,0,0,,Thanks!
+Dialogue: 0,0:19:17.99,0:19:19.45,Default,,0,0,0,,Ready?!
+Dialogue: 0,0:19:38.34,0:19:41.63,Default,,0,0,0,,Go figure. I'm falling behind.
+Dialogue: 0,0:19:44.05,0:19:48.10,Default,,0,0,0,,Anyway, just focus on\Nskating till it's over.
+Dialogue: 0,0:19:48.10,0:19:49.81,Default,,0,0,0,,Ayaka, fight!
+Dialogue: 0,0:19:49.81,0:19:50.85,Default,,0,0,0,,Aya!
+Dialogue: 0,0:19:50.85,0:19:52.10,Default,,0,0,0,,Ayacchi!
+Dialogue: 0,0:19:52.10,0:19:54.15,Default,,0,0,0,,Keep it up, Aya!
+Dialogue: 0,0:19:54.15,0:19:58.23,Default,,0,0,0,,It's not just me. Everyone's suffering.
+Dialogue: 0,0:19:58.23,0:19:59.36,Default,,0,0,0,,Keep it up!
+Dialogue: 0,0:20:05.95,0:20:08.87,Default,,0,0,0,,Ayaka! Last lap!
+Dialogue: 0,0:20:13.42,0:20:16.13,Default,,0,0,0,,It hurts! I can't do it!
+Dialogue: 0,0:20:16.13,0:20:18.21,Default,,0,0,0,,Ayaka!
+Dialogue: 0,0:20:18.21,0:20:20.72,Default,,0,0,0,,--Aya!\N--Ayacchi!
+Dialogue: 0,0:20:20.72,0:20:22.09,Default,,0,0,0,,You're so close!
+Dialogue: 0,0:20:22.09,0:20:23.30,Default,,0,0,0,,Keep it up!
+Dialogue: 0,0:20:23.30,0:20:24.72,Default,,0,0,0,,Fight!
+Dialogue: 0,0:20:24.72,0:20:26.26,Default,,0,0,0,,Almost there!
+Dialogue: 0,0:20:26.26,0:20:30.73,Default,,0,0,0,,They're waiting for me! I've gotta finish!
+Dialogue: 0,0:20:30.73,0:20:33.90,Default,,0,0,0,,I'm skating my way till it's over!
+Dialogue: 0,0:20:33.90,0:20:35.86,Default,,0,0,0,,Just a bit more!
+Dialogue: 0,0:20:39.69,0:20:41.11,Default,,0,0,0,,Ready, set...
+Dialogue: 0,0:20:41.11,0:20:43.61,Default,,0,0,0,,Goal!
+Dialogue: 0,0:20:46.57,0:20:49.91,Default,,0,0,0,,I did it! I skated it!
+Dialogue: 0,0:20:49.91,0:20:55.04,Default,,0,0,0,,They all crossed the finish\Nline together! Golly!
+Dialogue: 0,0:20:57.13,0:20:58.63,Default,,0,0,0,,Thank goodness!
+Dialogue: 0,0:20:58.63,0:20:59.63,Default,,0,0,0,,You did it!
+Dialogue: 0,0:20:59.63,0:21:01.46,Default,,0,0,0,,We finished together!
+Dialogue: 0,0:21:01.46,0:21:04.76,Default,,0,0,0,,Ayacchi, nice work!
+Dialogue: 0,0:21:04.76,0:21:07.85,Default,,0,0,0,,Good job finishing!
+Dialogue: 0,0:21:07.85,0:21:09.06,Default,,0,0,0,,Yoko!
+Dialogue: 0,0:21:09.06,0:21:12.18,Default,,0,0,0,,Everyone passes! Congrats!
+Dialogue: 0,0:21:17.23,0:21:19.02,Default,,0,0,0,,Woo-hoo!
+Dialogue: 0,0:21:19.02,0:21:20.11,Default,,0,0,0,,Isn't that great?
+Dialogue: 0,0:21:20.11,0:21:23.03,Default,,0,0,0,,Now then...
+Dialogue: 0,0:21:23.03,0:21:26.16,Default,,0,0,0,,There's one last thing to do.
+Dialogue: 0,0:21:30.16,0:21:33.87,Default,,0,0,0,,This number again? Sheesh.
+Dialogue: 0,0:21:33.87,0:21:36.67,Default,,0,0,0,,Anyone home?!
+Dialogue: 0,0:21:40.21,0:21:42.84,Default,,0,0,0,,A-A trespasser?
+Dialogue: 0,0:21:42.84,0:21:45.30,Default,,0,0,0,,Blocking my number won't stop me.
+Dialogue: 0,0:21:45.30,0:21:47.76,Default,,0,0,0,,Wh-Who are you?
+Dialogue: 0,0:21:47.76,0:21:51.14,Default,,0,0,0,,The person whose calls\Nyou've been ignoring!
+Dialogue: 0,0:21:51.14,0:21:56.77,Default,,0,0,0,,Eh? Hey, you've called like\N30 times! Are you a stalker?!
+Dialogue: 0,0:21:56.77,0:21:59.44,Default,,0,0,0,,Does "Atsumi Kawakami" ring a bell?
+Dialogue: 0,0:21:59.44,0:22:05.82,Default,,0,0,0,,I'm her old pal, the coach of the Nikko\NDream Monkeys, Yoko Matsunaga.
+Dialogue: 0,0:22:05.82,0:22:09.78,Default,,0,0,0,,Yu Kiyose! We need to talk!
+Dialogue: 0,0:22:09.78,0:22:11.45,Default,,0,0,0,,Huh?
+Dialogue: 0,0:23:42.42,0:23:46.96,Default,,0,0,0,,Nikko engravings...\NNikko clogs... Jizo statue?!
