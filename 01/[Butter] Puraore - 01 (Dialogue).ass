@@ -17,9 +17,9 @@ Keyframes File: 01 - keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 384
-Active Line: 396
-Video Position: 34043
+Scroll Position: 42
+Active Line: 45
+Video Position: 6949
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -65,16 +65,16 @@ Dialogue: 0,0:04:05.83,0:04:07.22,Default,,0,0,0,,Want tea?
 Dialogue: 0,0:04:07.22,0:04:08.86,Default,,0,0,0,,Sure do!
 Dialogue: 0,0:04:08.86,0:04:09.39,Default,,0,0,0,,--Here.
 Dialogue: 0,0:04:09.39,0:04:10.12,Default,,0,0,0,,--Thanks!
-Dialogue: 0,0:04:10.12,0:04:10.93,Alternate,,0,0,0,,{\an8}--Gather up!
-Dialogue: 0,0:04:10.93,0:04:11.86,Alternate,,0,0,0,,{\an8}--Right!
+Dialogue: 0,0:04:10.12,0:04:10.93,Default,,0,0,0,,{\an8}--Gather up!
+Dialogue: 0,0:04:10.93,0:04:11.86,Default,,0,0,0,,{\an8}--Right!
 Dialogue: 0,0:04:16.22,0:04:21.65,Default,,0,0,0,,Mmm! Nothing says springtime\Nof youth like sweat and sports!
 Dialogue: 0,0:04:21.65,0:04:24.52,Default,,0,0,0,,Our embroidery club counts, too!
 Dialogue: 0,0:04:24.52,0:04:28.12,Default,,0,0,0,,Of course! It's existed\Nsince Grandma's time!
 Dialogue: 0,0:04:28.56,0:04:33.58,Default,,0,0,0,,Stitch by stitch, we've made\Nmasterpieces across generations!
 Dialogue: 0,0:04:33.85,0:04:35.92,Default,,0,0,0,,We all share a common thread!
 Dialogue: 0,0:04:37.14,0:04:37.71,Default,,0,0,0,,Hot!
-Dialogue: 0,0:04:38.02,0:04:44.50,Default,,0,0,0,,Yeah, yeah. As president of such a\Ntime-honored club, quit talking and work.
-Dialogue: 0,0:04:44.50,0:04:47.98,Default,,0,0,0,,Aya, let her drink tea in peace.
+Dialogue: 0,0:04:38.02,0:04:44.38,Default,,0,0,0,,Yeah, yeah. As president of such a\Ntime-honored club, quit talking and work.
+Dialogue: 0,0:04:44.38,0:04:47.98,Default,,0,0,0,,Aya, let her drink tea in peace.
 Dialogue: 0,0:04:47.98,0:04:49.56,Default,,0,0,0,,You're too easy on her, Kao!
 Dialogue: 0,0:04:49.85,0:04:51.51,Default,,0,0,0,,Hurry up!
 Dialogue: 0,0:04:51.51,0:04:52.89,Default,,0,0,0,,Yeah, yeah.
